@@ -12,4 +12,5 @@ Deep Learning Model: Uses a pre-trained convolutional neural network for feature
 
 For this project, we have used the Stanford Dogs Dataset, which consists of images and annotations for 120 dog breeds.
 
-Download the dataset here https://www.kaggle.com/c/dog-breed-identification
+Download the dataset [here](https://www.kaggle.com/c/dog-breed-identification)
+
